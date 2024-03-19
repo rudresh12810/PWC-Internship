@@ -1,0 +1,19 @@
+Observations
+• Out of 7043 Total clients, 1869 are churners and 5174 are current customers. That is a 27% churn rate.
+• 50% M to 50% F, even distribution of gender.
+43% of Current Customers are on Month to Month contracts, whereas 89% of Churners are on Month to Month contracts.
+• • Churners are often single status, no dependents and older.
+• Customers are often married status, dependents and younger.
+• Churners are often those with a low tenure, less than 2 years.
+• Churners tend not to be subscribed to services like Online Security, Online Backup and Device Protection.
+• There is a $1.6M loss of revenue by churners when payment method is Electronic check., more than double that of any other payment method.
+• Credit card and bank transfers offer the most revenue, more than $4M for each type.
+• 57% of churners have the shortest tenure (0-1 years) and tend to have the most Admin tickets as well.
+• Revenue sharply increases after 5 years, 30% increase.
+• Current customers tend to have lower monthly and yearly charges.
+
+Recommendations
+• To increase revenue, there should be an emphasis to push a customer from a month to month contract and instead sign up for 1 or 2 year contract. • We should seek to improve advertising or value of Online Security to early customers. Churners often decline Online Security in their early tenure.
+• There is an issue with Electronic checks we need to address because there is a tremendous loss in revenue.
+• There should be an emphasis to prevent Admin tickets from occurring to new customers because it can result in higher churn rates.
+• Discounts should be encouraged to keep current customers from churning.
